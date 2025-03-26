@@ -2,7 +2,7 @@
 
 ## Objective
 
-In this project, I learned the fundamentals of using python, API's, and JSON to create an autoated process of creating and scheduling pinterest posts for any business or personal use. 
+In this project, I learned the fundamentals of using python, API's, and JSON to create an automated process of creating and scheduling pinterest posts for any business or personal use. 
 
 ### Skills Learned
 
